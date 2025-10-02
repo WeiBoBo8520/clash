@@ -42,6 +42,10 @@ DOMAIN-SUFFIX,manus.cn
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,sora.openai.com
+DOMAIN-SUFFIX,oaiusercontent.com
+
 
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,metademolab.com
@@ -51,3 +55,4 @@ DOMAIN-SUFFIX,perplexity.ai
 # DOMAIN-SUFFIX,googleapis.cn
 # DOMAIN-SUFFIX,gstatic.com
 # DOMAIN-SUFFIX,signalr.net
+
