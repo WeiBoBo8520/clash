@@ -1,0 +1,21 @@
+# 内容：本地网络服务、局域网内的设备、不需要通过代理访问的本地资源
+
+# 群辉相关服务
+DOMAIN-SUFFIX,synology.com
+DOMAIN-SUFFIX,synology.cn
+DOMAIN-SUFFIX,quickconnect.to
+DOMAIN-SUFFIX,quickconnect.cn
+DOMAIN-SUFFIX,myds.me
+DOMAIN-KEYWORD,synology
+
+# 内网地址段（三大私有网段）
+IP-CIDR,192.168.0.0/16,no-resolve
+IP-CIDR,10.0.0.0/8,no-resolve
+IP-CIDR,172.16.0.0/12,no-resolve
+
+# 本地域名
+DOMAIN-SUFFIX,local
+DOMAIN-SUFFIX,lan
+
+# 需要通过代理访
+
