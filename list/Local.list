@@ -17,5 +17,6 @@ IP-CIDR,172.16.0.0/12,no-resolve
 DOMAIN-SUFFIX,local
 DOMAIN-SUFFIX,lan
 
-# 需要通过代理访
+# 不需要通过代理访
+
 
