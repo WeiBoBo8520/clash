@@ -18,5 +18,6 @@ DOMAIN-SUFFIX,local
 DOMAIN-SUFFIX,lan
 
 # 不需要通过代理访
+DOMAIN-SUFFIX,wnflb99.com
 
 
