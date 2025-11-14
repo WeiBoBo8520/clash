@@ -1,0 +1,21 @@
+# ==========================================
+# MyRules.list
+# Author: 自己维护
+# Description: 自定义维护的域名规则，需要走代理的域名统一放在这里
+# Last Update: 2025-11-14
+# ==========================================
+# 使用说明：
+# 1. 此文件为个人维护的规则集，独立于官方规则。
+# 2. 所有需要强制走代理的域名（DOMAIN / DOMAIN-SUFFIX / DOMAIN-KEYWORD）
+#    都可添加在本文件中。
+# 3. 添加格式请遵循 Clash/Meta 规则格式，如：
+#      DOMAIN,example.com
+#      DOMAIN-SUFFIX,example.org
+#      DOMAIN-KEYWORD,keyword
+# 4. 改动后可直接通过 GitHub Raw 在线更新。
+# ==========================================
+
+DOMAIN-SUFFIX,synology.com
+
+
+
