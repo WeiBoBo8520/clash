@@ -21,3 +21,29 @@ DOMAIN-SUFFIX,lan
 DOMAIN-SUFFIX,wnflb99.com
 
 
+# 雷神
+DOMAIN-KEYWORD,leigod,DIRECT
+DOMAIN-SUFFIX,leigod.com,DIRECT
+DOMAIN-SUFFIX,leigodacc.com,DIRECT
+DOMAIN-SUFFIX,speedcdns.com,DIRECT
+DOMAIN-SUFFIX,52cloud.com,DIRECT
+
+# 薄荷（BOHE）
+DOMAIN-KEYWORD,bohe,DIRECT
+DOMAIN-SUFFIX,bohe.com,DIRECT
+DOMAIN-SUFFIX,bohejiasuqi.com,DIRECT
+DOMAIN-SUFFIX,bohejiasuqi.cn,DIRECT
+DOMAIN-SUFFIX,bhgame.cn,DIRECT
+
+# 5E 对战平台
+DOMAIN-SUFFIX,5eplay.com,DIRECT
+DOMAIN-SUFFIX,arena.5eplay.com,DIRECT
+DOMAIN-SUFFIX,csgo.5eplay.com,DIRECT
+DOMAIN-SUFFIX,oss.5eplay.com,DIRECT
+
+# 完美世界对战
+DOMAIN-SUFFIX,wanmei.com,DIRECT
+DOMAIN-SUFFIX,wmsjsteam.com,DIRECT
+
+
+
