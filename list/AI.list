@@ -7,51 +7,30 @@
 DOMAIN,copilot.microsoft.com
 DOMAIN-SUFFIX,bing.com
 
-# === Gemini AI Full Rule-set ===
-
-# 🔹 主站入口
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN,gemini.google.com
-
-# 🔹 Gemini 新版入口（部分地区跳转）
 DOMAIN-SUFFIX,gemini-1.google.com
 DOMAIN-SUFFIX,gemini-1ai.google.com
-
-# 🔹 Web UI 接口（加载模型、执行请求）
 DOMAIN-SUFFIX,ai.google.dev
 DOMAIN-SUFFIX,ai.googleusercontent.com
 DOMAIN-SUFFIX,alkalicore-pa.googleapis.com
-
-# 🔹 API 接口（Gemini Pro / Gemini 1.5）
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
-DOMAIN-SUFFIX,generativelanguage.googleapis.com
-
-# 🔹 AI Studio（前身 MakerSuite）
 DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,aistudio-pa.googleapis.com
-
-# 🔹 新版 Google Labs（Gemini 相关功能）
 DOMAIN-SUFFIX,labs.google
 DOMAIN-SUFFIX,labs.google.com
-
-# 🔹 Google OAuth 授权服务（必走代理，否则无法登录）
 DOMAIN-SUFFIX,accounts.google.com
 DOMAIN-SUFFIX,oauth2.googleapis.com
-
-# 🔹 静态资源 / JS / CSS / 字体
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,fonts.gstatic.com
 DOMAIN-SUFFIX,fonts.googleapis.com
 DOMAIN-SUFFIX,googleapis.com
-
-# 🔹 Gemini 访问依赖的一些通用 Google 域（推荐加）
 DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,googlecloud.com
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,gvt1.com
-
 
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,auth0.com
@@ -105,6 +84,7 @@ DOMAIN-SUFFIX,perplexity.ai
 # DOMAIN-SUFFIX,googleapis.cn
 # DOMAIN-SUFFIX,gstatic.com
 # DOMAIN-SUFFIX,signalr.net
+
 
 
 
