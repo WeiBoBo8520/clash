@@ -1,90 +1,83 @@
-# 内容：OpenAi Bard anthropic
-# 域名关键字匹配
-# DOMAIN-KEYWORD,openai
-# DOMAIN-KEYWORD,anthropic
-# DOMAIN-KEYWORD,Claude
-# 域名后缀匹配
-DOMAIN,copilot.microsoft.com
-DOMAIN-SUFFIX,bing.com
+# ===========================
+#   AI 服务（OpenAI / Google / Anthropic / Meta / Groq / Perplexity）
+#   自动走 AI 专用代理节点
+# ===========================
 
-DOMAIN-SUFFIX,gemini.google.com
+# ===== OpenAI / ChatGPT =====
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
+DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,stripe.com          # ChatGPT 付费
+DOMAIN-SUFFIX,auth0.com           # ChatGPT 登录
+DOMAIN-SUFFIX,featuregates.org
+DOMAIN-SUFFIX,events.statsigapi.net
+DOMAIN-SUFFIX,client-api.arkoselabs.com  # 验证
+
+# ===== Google Gemini =====
 DOMAIN,gemini.google.com
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,gemini-1.google.com
 DOMAIN-SUFFIX,gemini-1ai.google.com
 DOMAIN-SUFFIX,ai.google.dev
-DOMAIN-SUFFIX,ai.googleusercontent.com
-DOMAIN-SUFFIX,alkalicore-pa.googleapis.com
-DOMAIN-SUFFIX,generativelanguage.googleapis.com
-DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,aistudio-pa.googleapis.com
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,alkalicore-pa.googleapis.com
+DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,labs.google
 DOMAIN-SUFFIX,labs.google.com
-DOMAIN-SUFFIX,accounts.google.com
-DOMAIN-SUFFIX,oauth2.googleapis.com
-DOMAIN-SUFFIX,gstatic.com
-DOMAIN-SUFFIX,fonts.gstatic.com
-DOMAIN-SUFFIX,fonts.googleapis.com
-DOMAIN-SUFFIX,googleapis.com
-DOMAIN-SUFFIX,google.com
-DOMAIN-SUFFIX,googleusercontent.com
-DOMAIN-SUFFIX,googlecloud.com
-DOMAIN-SUFFIX,ggpht.com
-DOMAIN-SUFFIX,gvt1.com
 
-DOMAIN-SUFFIX,chatgpt.com
-DOMAIN-SUFFIX,auth0.com
-DOMAIN-SUFFIX,client-api.arkoselabs.com
-DOMAIN-SUFFIX,events.statsigapi.net
-DOMAIN-SUFFIX,featuregates.org
-DOMAIN-SUFFIX,identrust.com
-DOMAIN-SUFFIX,intercom.io
-DOMAIN-SUFFIX,intercomcdn.com
-DOMAIN-SUFFIX,oaistatic.com
-DOMAIN-SUFFIX,oaiusercontent.com
-DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,openaiapi-site.azureedge.net
-DOMAIN-SUFFIX,sentry.io
-DOMAIN-SUFFIX,stripe.com
-DOMAIN-SUFFIX,bard.google.com
-DOMAIN-SUFFIX,gemini.google.com
+# Google 基础登录与资源（必须加，否则 Gemini 无法登录）
+DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,gstatic.com
-DOMAIN-SUFFIX,makersuite.google.com
+DOMAIN-SUFFIX,fonts.gstatic.com
+DOMAIN-SUFFIX,fonts.googleapis.com
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,googlecloud.com
+DOMAIN-SUFFIX,accounts.google.com
+DOMAIN-SUFFIX,oauth2.googleapis.com
+DOMAIN-SUFFIX,gvt1.com
+
+# ===== Anthropic Claude =====
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,intercom.io
+
+# ===== Meta AI =====
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,metademolab.com
+
+# ===== Groq =====
+DOMAIN-SUFFIX,groq.com
+
+# ===== Perplexity =====
+DOMAIN-SUFFIX,perplexity.ai
+
+# ===== xAI / Grok =====
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,x.com
+
+# ===== Dify / Genspark / Manus 其他AI协作平台 =====
+DOMAIN-SUFFIX,dify.ai
+DOMAIN-SUFFIX,genspark.ai
+DOMAIN-SUFFIX,manus.im
+DOMAIN-SUFFIX,manus.cn
+
+# ===== GitHub Copilot =====
+DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,bing.com
+
+# ===== 小众 AI（保留） =====
 DOMAIN-SUFFIX,circumlunar.space
 DOMAIN-SUFFIX,vulpes.one
 DOMAIN-SUFFIX,mozz.us
 DOMAIN-SUFFIX,conman.org
 DOMAIN-SUFFIX,bortzmeyer.org
-DOMAIN-SUFFIX,groq.com
-DOMAIN-SUFFIX,difyai.com
-DOMAIN-SUFFIX,genspark.ai
-DOMAIN-SUFFIX,manus.im
-DOMAIN-SUFFIX,manus.cn
-DOMAIN-SUFFIX,grok.com
-DOMAIN-SUFFIX,x.com
-DOMAIN-SUFFIX,x.ai
-DOMAIN-SUFFIX,openai.com
-DOMAIN-SUFFIX,sora.openai.com
-DOMAIN-SUFFIX,oaiusercontent.com
-DOMAIN-SUFFIX,chatgpt.com,Proxy
-DOMAIN-SUFFIX,openai.com,Proxy
-DOMAIN-SUFFIX,sora.chatgpt.com,Proxy
-
-
-
-DOMAIN-SUFFIX,meta.ai
-DOMAIN-SUFFIX,metademolab.com
-DOMAIN-SUFFIX,perplexity.ai
-
-# DOMAIN-SUFFIX,googleapis.com
-# DOMAIN-SUFFIX,googleapis.cn
-# DOMAIN-SUFFIX,gstatic.com
-# DOMAIN-SUFFIX,signalr.net
-
-
-
-
