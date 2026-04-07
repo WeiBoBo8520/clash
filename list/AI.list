@@ -49,6 +49,20 @@ DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,intercom.io
+DOMAIN,cdn.usefathom.com
+# Claude Web & App
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.sh
+
+# Claude Code & Developer API
+DOMAIN,api.anthropic.com
+DOMAIN,api.claude.ai
+
+# Analytics & Infrastructure
+DOMAIN-SUFFIX,statsigapi.net
+DOMAIN-KEYWORD,anthropic
+DOMAIN-KEYWORD,claude
 
 # ===== Meta AI =====
 DOMAIN-SUFFIX,meta.ai
