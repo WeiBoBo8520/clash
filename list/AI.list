@@ -48,6 +48,7 @@ DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,intercom.io
 DOMAIN,cdn.usefathom.com
 # Claude Web & App
@@ -78,6 +79,21 @@ DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,grok.com
 DOMAIN-SUFFIX,x.com
+
+# ===== Poe (知名 AI 聚合平台) =====
+DOMAIN-SUFFIX,poe.com
+
+# ===== Midjourney (依附于 Discord) =====
+DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,discord.gg
+DOMAIN-SUFFIX,discordapp.net
+
+# ===== DeepL (最强 AI 翻译) =====
+DOMAIN-SUFFIX,deepl.com
+
+# ===== Notion AI =====
+DOMAIN-SUFFIX,notion.so
+DOMAIN-SUFFIX,notion.site
 
 # ===== Dify / Genspark / Manus 其他AI协作平台 =====
 DOMAIN-SUFFIX,dify.ai
