@@ -47,5 +47,11 @@ DOMAIN-SUFFIX,oss.5eplay.com,DIRECT
 DOMAIN-SUFFIX,wanmei.com,DIRECT
 DOMAIN-SUFFIX,wmsjsteam.com,DIRECT
 
+# 其他不代理域名
+DOMAIN-SUFFIX,truvaze.com,DIRECT
+
+
+
+
 
 
