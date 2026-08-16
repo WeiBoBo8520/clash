@@ -15,21 +15,27 @@ DOMAIN-SUFFIX,featuregates.org
 DOMAIN-SUFFIX,events.statsigapi.net
 DOMAIN-SUFFIX,client-api.arkoselabs.com  # 验证
 
-# ===== Google Gemini =====
-DOMAIN,gemini.google.com
+
+# ===== Google Gemini / AI Studio / Antigravity =====
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,bard.google.com
-DOMAIN-SUFFIX,gemini-1.google.com
-DOMAIN-SUFFIX,gemini-1ai.google.com
 DOMAIN-SUFFIX,ai.google.dev
 DOMAIN-SUFFIX,aistudio.google.com
-DOMAIN-SUFFIX,aistudio-pa.googleapis.com
-DOMAIN-SUFFIX,generativelanguage.googleapis.com
-DOMAIN-SUFFIX,alkalicore-pa.googleapis.com
 DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,labs.google
-DOMAIN-SUFFIX,labs.google.com
 DOMAIN-SUFFIX,antigravity.google
+
+# Gemini API、Antigravity 核心接口
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,googlecloud.com
+
+# Google 登录、网页资源
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,google.dev
 
 
 
