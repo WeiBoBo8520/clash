@@ -24,6 +24,7 @@ DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,labs.google
 DOMAIN-SUFFIX,antigravity.google
+DOMAIN,antigravity-unleash.goog
 
 # Gemini API、Antigravity 核心接口
 DOMAIN-SUFFIX,googleapis.com
