@@ -29,12 +29,8 @@ DOMAIN-SUFFIX,alkalicore-pa.googleapis.com
 DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,labs.google
 DOMAIN-SUFFIX,labs.google.com
-DOMAIN-SUFFIX,antigravity.google,Antigravity
-DOMAIN,daily-cloudcode-pa.googleapis.com,Antigravity
-DOMAIN,generativelanguage.googleapis.com,Antigravity
-DOMAIN,storage.googleapis.com,Antigravity
-DOMAIN,accounts.google.com,Antigravity
-DOMAIN,oauth2.googleapis.com,Antigravity
+DOMAIN-SUFFIX,antigravity.google
+
 
 
 # Google 基础登录与资源（必须加，否则 Gemini 无法登录）
