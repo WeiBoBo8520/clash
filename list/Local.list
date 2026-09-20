@@ -20,6 +20,54 @@ DOMAIN-SUFFIX,lan
 # 不需要通过代理访
 DOMAIN-SUFFIX,wnflb99.com
 
+# ========================
+# 小米生态与智能家居直连
+# ========================
+
+# 小米核心与米家 IoT 基础设施
+DOMAIN-SUFFIX,xiaomi.com
+DOMAIN-SUFFIX,xiaomi.net
+DOMAIN-SUFFIX,xiaomi.cn
+DOMAIN-SUFFIX,mi.com
+DOMAIN-SUFFIX,miui.com
+DOMAIN-SUFFIX,miwifi.com
+DOMAIN-SUFFIX,mijia.tech
+DOMAIN-SUFFIX,miot-spec.org
+DOMAIN-SUFFIX,xiaomiev.com
+DOMAIN-SUFFIX,xiaomiyoupin.com
+DOMAIN-SUFFIX,mishop.com
+DOMAIN-SUFFIX,mi-img.com
+DOMAIN-SUFFIX,mifile.cn
+DOMAIN-SUFFIX,mgslb.com
+DOMAIN-SUFFIX,mi-dun.com
+DOMAIN-SUFFIX,mi-fds.com
+DOMAIN-SUFFIX,mi-idc.com
+DOMAIN-SUFFIX,mieco.net
+DOMAIN-KEYWORD,xiaomi
+DOMAIN-KEYWORD,miui
+
+# 小爱同学与 AI 语音服务
+DOMAIN-SUFFIX,xiaoaiassist.com
+DOMAIN-SUFFIX,xiaomixiaoai.com
+DOMAIN-SUFFIX,miaibox.com
+DOMAIN-SUFFIX,xiaomimimo.com
+DOMAIN-KEYWORD,xiaoai
+
+# 小米天气核心数据服务源
+DOMAIN-SUFFIX,caiyunapp.com
+DOMAIN-SUFFIX,weather.com.cn
+DOMAIN-SUFFIX,qweather.com
+
+# 小米生态链常见智能家居品牌（选配防冲突）
+DOMAIN-SUFFIX,smartmi.com.cn
+DOMAIN-SUFFIX,yeelight.com
+DOMAIN-SUFFIX,aqara.com
+DOMAIN-SUFFIX,roborock.com
+DOMAIN-SUFFIX,viomi.com.cn
+DOMAIN-SUFFIX,yunmi.com.cn
+DOMAIN-SUFFIX,huami.com
+DOMAIN-SUFFIX,zepp.com
+
 
 # 雷神
 DOMAIN-KEYWORD,leigod,DIRECT
